@@ -1,4 +1,4 @@
-// Script.js
+  // Script.js
 
 // Import the storage controller object from storage.js
 // Separating this isn't super necessary for this lab but keeping
